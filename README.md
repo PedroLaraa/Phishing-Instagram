@@ -19,3 +19,8 @@
 ### Resutados
 
 ![Alt text](./resultado.png "Optional title")
+
+### Observações:
+
+- Phishing foi rodado apenas localmente, sem intuito de prejudicar pessoas;
+- Foi desenvolvido juntamente da Formação Cybersecurity Specialist - Instituição DIO.
